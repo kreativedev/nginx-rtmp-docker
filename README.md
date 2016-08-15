@@ -20,3 +20,5 @@ Then you are running an outdated version of Docker. See [the Docker documentatio
 Docker Hub: https://hub.docker.com/r/dvdgiessen/nginx-rtmp-docker/
 
 Based on setup described on the OBS forums [here](https://obsproject.com/forum/resources/how-to-set-up-your-own-private-rtmp-server-using-nginx.50/).
+
+v1.0.1
